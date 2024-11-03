@@ -9,4 +9,4 @@ The columns containing geometrical data includes co-ordinates of points and path
 
 ![AESO-144 eps](https://github.com/user-attachments/assets/0ee281b7-416b-43fe-a49d-6f04b0d8a924 | width=100)
 
-<img src="https://i.imgur.com/ZWnhY9T.png](https://github.com/user-attachments/assets/0ee281b7-416b-43fe-a49d-6f04b0d8a924" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/0ee281b7-416b-43fe-a49d-6f04b0d8a924" width=50% height=50%>
